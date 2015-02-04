@@ -1,0 +1,110 @@
+c:\users\руслан\documents\visual studio 2013\Projects\ZD1\ZD1\bin\Debug\ZD1.exe.config
+c:\users\руслан\documents\visual studio 2013\Projects\ZD1\ZD1\bin\Debug\ZD1.exe
+c:\users\руслан\documents\visual studio 2013\Projects\ZD1\ZD1\bin\Debug\ZD1.pdb
+c:\users\руслан\documents\visual studio 2013\Projects\ZD1\ZD1\obj\Debug\ZD1.csprojResolveAssemblyReference.cache
+c:\users\руслан\documents\visual studio 2013\Projects\ZD1\ZD1\obj\Debug\ZD1.Properties.Resources.resources
+c:\users\руслан\documents\visual studio 2013\Projects\ZD1\ZD1\obj\Debug\ZD1.csproj.GenerateResource.Cache
+c:\users\руслан\documents\visual studio 2013\Projects\ZD1\ZD1\obj\Debug\ZD1.exe
+c:\users\руслан\documents\visual studio 2013\Projects\ZD1\ZD1\obj\Debug\ZD1.pdb
+c:\users\руслан\documents\visual studio 2013\Projects\ZD1\ZD1\obj\Debug\ZD1.FormInfo.resources
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\ZD1\ZD1\obj\Debug\ZD1.Form3.resources
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\ZD1\ZD1\obj\Debug\ZD1.Form5.resources
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\ZD1\ZD1\obj\Debug\ZD1.Form2.resources
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\ZD1\ZD1\obj\Debug\ZD1.Form1.resources
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\ZD1\ZD1\obj\Debug\ZD1.Account.resources
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\Kursa4\ZD1\bin\Debug\ZD1.exe.config
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\Kursa4\ZD1\obj\Debug\ZD1.exe
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\Kursa4\ZD1\obj\Debug\ZD1.pdb
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\Kursa4\ZD1\bin\Debug\ZD1.exe
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\Kursa4\ZD1\bin\Debug\ZD1.pdb
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\Kursa4\ZD1\obj\Debug\ZD1.csprojResolveAssemblyReference.cache
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\Kursa4\ZD1\obj\Debug\ZD1.Account.resources
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\Kursa4\ZD1\obj\Debug\ZD1.Form1.resources
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\Kursa4\ZD1\obj\Debug\ZD1.Form2.resources
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\Kursa4\ZD1\obj\Debug\ZD1.Form3.resources
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\Kursa4\ZD1\obj\Debug\ZD1.Form5.resources
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\Kursa4\ZD1\obj\Debug\ZD1.FormInfo.resources
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\Kursa4\ZD1\obj\Debug\ZD1.Properties.Resources.resources
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\Kursa4\ZD1\obj\Debug\ZD1.csproj.GenerateResource.Cache
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\Kursa4\ZD1\obj\Debug\ZD1.Form4.resources
+G:\7семестр\Защита данных\Kursa4\Kursa4\ZD1\bin\Debug\ZD1.exe.config
+G:\7семестр\Защита данных\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.exe
+G:\7семестр\Защита данных\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.pdb
+G:\7семестр\Защита данных\Kursa4\Kursa4\ZD1\bin\Debug\ZD1.exe
+G:\7семестр\Защита данных\Kursa4\Kursa4\ZD1\bin\Debug\ZD1.pdb
+G:\7семестр\Защита данных\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.csprojResolveAssemblyReference.cache
+G:\7семестр\Защита данных\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.Account.resources
+G:\7семестр\Защита данных\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.Form1.resources
+G:\7семестр\Защита данных\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.Form2.resources
+G:\7семестр\Защита данных\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.Form3.resources
+G:\7семестр\Защита данных\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.Form4.resources
+G:\7семестр\Защита данных\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.Form5.resources
+G:\7семестр\Защита данных\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.FormInfo.resources
+G:\7семестр\Защита данных\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.Properties.Resources.resources
+G:\7семестр\Защита данных\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.csproj.GenerateResource.Cache
+I:\7семестр\Защита данных\Kursa4\Kursa4\ZD1\bin\Debug\ZD1.exe.config
+I:\7семестр\Защита данных\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.exe
+I:\7семестр\Защита данных\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.pdb
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\Kursa4\Kursa4\ZD1\bin\Debug\ZD1.exe.config
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.exe
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.pdb
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.csprojResolveAssemblyReference.cache
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.Account.resources
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.Form1.resources
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.Form2.resources
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.Form3.resources
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.Form4.resources
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.Form5.resources
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.FormInfo.resources
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.Properties.Resources.resources
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.csproj.GenerateResource.Cache
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\Kursa4\Kursa4\ZD1\bin\Debug\ZD1.exe
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\Kursa4\Kursa4\ZD1\bin\Debug\ZD1.pdb
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\KotsRuslanKursa4\Kursa4\Kursa4\ZD1\bin\Debug\ZD1.exe.config
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\KotsRuslanKursa4\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.exe
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\KotsRuslanKursa4\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.pdb
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\KotsRuslanKursa4\Kursa4\Kursa4\ZD1\bin\Debug\ZD1.exe
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\KotsRuslanKursa4\Kursa4\Kursa4\ZD1\bin\Debug\ZD1.pdb
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\KotsRuslanKursa4\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.csprojResolveAssemblyReference.cache
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\KotsRuslanKursa4\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.Account.resources
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\KotsRuslanKursa4\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.Form1.resources
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\KotsRuslanKursa4\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.Form2.resources
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\KotsRuslanKursa4\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.Form3.resources
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\KotsRuslanKursa4\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.Form4.resources
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\KotsRuslanKursa4\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.Form5.resources
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\KotsRuslanKursa4\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.FormInfo.resources
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\KotsRuslanKursa4\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.Properties.Resources.resources
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\KotsRuslanKursa4\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.csproj.GenerateResource.Cache
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\KotsRuslanKursa4\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.Form6.resources
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\KotsRuslanKursa4Full\Kursa4\Kursa4\ZD1\bin\Debug\ZD1.exe.config
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\KotsRuslanKursa4Full\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.exe
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\KotsRuslanKursa4Full\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.pdb
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\KotsRuslanKursa4Full\Kursa4\Kursa4\ZD1\bin\Debug\ZD1.exe
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\KotsRuslanKursa4Full\Kursa4\Kursa4\ZD1\bin\Debug\ZD1.pdb
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\KotsRuslanKursa4Full\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.csprojResolveAssemblyReference.cache
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\KotsRuslanKursa4Full\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.Account.resources
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\KotsRuslanKursa4Full\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.Form1.resources
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\KotsRuslanKursa4Full\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.Form2.resources
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\KotsRuslanKursa4Full\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.Form3.resources
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\KotsRuslanKursa4Full\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.Form4.resources
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\KotsRuslanKursa4Full\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.Form5.resources
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\KotsRuslanKursa4Full\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.Form6.resources
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\KotsRuslanKursa4Full\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.FormInfo.resources
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\KotsRuslanKursa4Full\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.Properties.Resources.resources
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\KotsRuslanKursa4Full\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.csproj.GenerateResource.Cache
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\КурсачЗащита данных\KotsRuslanKursa4Full\Kursa4\Kursa4\ZD1\bin\Debug\ZD1.exe.config
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\КурсачЗащита данных\KotsRuslanKursa4Full\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.exe
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\КурсачЗащита данных\KotsRuslanKursa4Full\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.pdb
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\КурсачЗащита данных\KotsRuslanKursa4Full\Kursa4\Kursa4\ZD1\bin\Debug\ZD1.exe
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\КурсачЗащита данных\KotsRuslanKursa4Full\Kursa4\Kursa4\ZD1\bin\Debug\ZD1.pdb
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\КурсачЗащита данных\KotsRuslanKursa4Full\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.csprojResolveAssemblyReference.cache
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\КурсачЗащита данных\KotsRuslanKursa4Full\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.Account.resources
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\КурсачЗащита данных\KotsRuslanKursa4Full\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.Form1.resources
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\КурсачЗащита данных\KotsRuslanKursa4Full\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.Form2.resources
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\КурсачЗащита данных\KotsRuslanKursa4Full\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.Form3.resources
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\КурсачЗащита данных\KotsRuslanKursa4Full\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.Form4.resources
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\КурсачЗащита данных\KotsRuslanKursa4Full\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.Form5.resources
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\КурсачЗащита данных\KotsRuslanKursa4Full\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.Form6.resources
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\КурсачЗащита данных\KotsRuslanKursa4Full\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.FormInfo.resources
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\КурсачЗащита данных\KotsRuslanKursa4Full\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.Properties.Resources.resources
+C:\Users\Руслан\Documents\Visual Studio 2013\Projects\КурсачЗащита данных\KotsRuslanKursa4Full\Kursa4\Kursa4\ZD1\obj\Debug\ZD1.csproj.GenerateResource.Cache
