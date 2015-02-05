@@ -1,0 +1,69 @@
+C:\Documents and Settings\Strannytsa\Мои документы\Visual Studio 2008\институт\C#\vmss_2_1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Strannytsa\Мои документы\Visual Studio 2008\институт\C#\vmss_2_1\obj\Debug\vmss_2_1.Form1.resources
+C:\Documents and Settings\Strannytsa\Мои документы\Visual Studio 2008\институт\C#\vmss_2_1\obj\Debug\vmss_2_1.Properties.Resources.resources
+C:\Documents and Settings\Strannytsa\Мои документы\Visual Studio 2008\институт\C#\vmss_2_1\obj\Debug\vmss_2_1.csproj.GenerateResource.Cache
+C:\Documents and Settings\Strannytsa\Мои документы\Visual Studio 2008\институт\C#\vmss_2_1\bin\Debug\vmss_2_1.exe
+C:\Documents and Settings\Strannytsa\Мои документы\Visual Studio 2008\институт\C#\vmss_2_1\bin\Debug\vmss_2_1.pdb
+C:\Documents and Settings\Strannytsa\Мои документы\Visual Studio 2008\институт\C#\vmss_2_1\obj\Debug\vmss_2_1.exe
+C:\Documents and Settings\Strannytsa\Мои документы\Visual Studio 2008\институт\C#\vmss_2_1\obj\Debug\vmss_2_1.pdb
+C:\Documents and Settings\Strannytsa\Мои документы\Visual Studio 2008\институт\C#\vmss_2_1\obj\Debug\vmss_2_1.Form2.resources
+C:\Users\пользователь\Desktop\vmss_2_1\obj\Debug\vmss_2_1.exe
+C:\Users\пользователь\Desktop\vmss_2_1\obj\Debug\vmss_2_1.pdb
+C:\Users\пользователь\Desktop\vmss_2_1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\пользователь\Desktop\vmss_2_1\obj\Debug\vmss_2_1.Form1.resources
+C:\Users\пользователь\Desktop\vmss_2_1\obj\Debug\vmss_2_1.Form2.resources
+C:\Users\пользователь\Desktop\vmss_2_1\obj\Debug\vmss_2_1.Properties.Resources.resources
+C:\Users\пользователь\Desktop\vmss_2_1\obj\Debug\vmss_2_1.csproj.GenerateResource.Cache
+C:\Users\пользователь\Desktop\vmss_2_1\bin\Debug\vmss_2_1.exe
+C:\Users\пользователь\Desktop\vmss_2_1\bin\Debug\vmss_2_1.pdb
+C:\Users\пользователь\Desktop\vmss_2_1 - копия\obj\Debug\vmss_2_1.exe
+C:\Users\пользователь\Desktop\vmss_2_1 - копия\obj\Debug\vmss_2_1.pdb
+C:\Users\пользователь\Desktop\vmss_2_1 - копия\bin\Debug\vmss_2_1.exe
+C:\Users\пользователь\Desktop\vmss_2_1 - копия\bin\Debug\vmss_2_1.pdb
+C:\Users\пользователь\Desktop\vmss_2_1 - копия\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\пользователь\Desktop\vmss_2_1 - копия\obj\Debug\vmss_2_1.Form1.resources
+C:\Users\пользователь\Desktop\vmss_2_1 - копия\obj\Debug\vmss_2_1.Properties.Resources.resources
+C:\Users\пользователь\Desktop\vmss_2_1 - копия\obj\Debug\vmss_2_1.csproj.GenerateResource.Cache
+C:\Users\пользователь\Desktop\вмсс21\obj\Debug\vmss_2_1.exe
+C:\Users\пользователь\Desktop\вмсс21\obj\Debug\vmss_2_1.pdb
+C:\Users\student\Desktop\вмсс2_1\вмсс21\obj\Debug\vmss_2_1.exe
+C:\Users\student\Desktop\вмсс2_1\вмсс21\obj\Debug\vmss_2_1.pdb
+C:\Users\student\Desktop\вмсс2_1\вмсс21\bin\Debug\vmss_2_1.exe
+C:\Users\student\Desktop\вмсс2_1\вмсс21\bin\Debug\vmss_2_1.pdb
+C:\Users\student\Desktop\вмсс2_1\вмсс21\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\student\Desktop\вмсс2_1\вмсс21\obj\Debug\vmss_2_1.Form1.resources
+C:\Users\student\Desktop\вмсс2_1\вмсс21\obj\Debug\vmss_2_1.Properties.Resources.resources
+c:\projects\вмсс21\obj\Debug\vmss_2_1.exe
+c:\projects\вмсс21\obj\Debug\vmss_2_1.pdb
+c:\projects\вмсс21\bin\Debug\vmss_2_1.exe
+c:\projects\вмсс21\bin\Debug\vmss_2_1.pdb
+c:\projects\вмсс21\obj\Debug\ResolveAssemblyReference.cache
+c:\projects\вмсс21\obj\Debug\vmss_2_1.Form1.resources
+c:\projects\вмсс21\obj\Debug\vmss_2_1.Properties.Resources.resources
+C:\Users\пользователь\Desktop\вмсс21\вмсс21\obj\Debug\vmss_2_1.exe
+C:\Users\пользователь\Desktop\вмсс21\вмсс21\obj\Debug\vmss_2_1.pdb
+N:\Personal\Students\A-13-10\Ten\Shamaeva\Шамаева\ВМССвесна\вмсс2_1\вмсс21\вмсс21\obj\Debug\vmss_2_1.exe
+N:\Personal\Students\A-13-10\Ten\Shamaeva\Шамаева\ВМССвесна\вмсс2_1\вмсс21\вмсс21\obj\Debug\vmss_2_1.pdb
+N:\Personal\Students\A-13-10\Ten\Shamaeva\Шамаева\ВМССвесна\вмсс2_1\вмсс21\вмсс21\bin\Debug\vmss_2_1.exe
+N:\Personal\Students\A-13-10\Ten\Shamaeva\Шамаева\ВМССвесна\вмсс2_1\вмсс21\вмсс21\bin\Debug\vmss_2_1.pdb
+N:\Personal\Students\A-13-10\Ten\Shamaeva\Шамаева\ВМССвесна\вмсс2_1\вмсс21\вмсс21\obj\Debug\vmss_2_1.Form1.resources
+N:\Personal\Students\A-13-10\Ten\Shamaeva\Шамаева\ВМССвесна\вмсс2_1\вмсс21\вмсс21\obj\Debug\vmss_2_1.Properties.Resources.resources
+N:\Personal\Students\A-13-10\Ten\Shamaeva\Шамаева\ВМССвесна\вмсс2_1\вмсс21\вмсс21\obj\Debug\vmss_2_1.csproj.GenerateResource.Cache
+D:\Группы прошлых лет\А-13-10\Ten\Shamaeva\Шамаева\ВМССвесна\вмсс2_1\вмсс21\вмсс21\obj\Debug\vmss_2_1.exe
+D:\Группы прошлых лет\А-13-10\Ten\Shamaeva\Шамаева\ВМССвесна\вмсс2_1\вмсс21\вмсс21\obj\Debug\vmss_2_1.pdb
+D:\Группы прошлых лет\А-13-10\Ten\Shamaeva\Шамаева\ВМССвесна\вмсс2_1\вмсс21\вмсс21\bin\Debug\vmss_2_1.exe
+D:\Группы прошлых лет\А-13-10\Ten\Shamaeva\Шамаева\ВМССвесна\вмсс2_1\вмсс21\вмсс21\bin\Debug\vmss_2_1.pdb
+D:\Группы прошлых лет\А-13-10\Ten\Shamaeva\Шамаева\ВМССвесна\вмсс2_1\вмсс21\вмсс21\obj\Debug\vmss_2_1.Form1.resources
+D:\Группы прошлых лет\А-13-10\Ten\Shamaeva\Шамаева\ВМССвесна\вмсс2_1\вмсс21\вмсс21\obj\Debug\vmss_2_1.Properties.Resources.resources
+D:\Группы прошлых лет\А-13-10\Ten\Shamaeva\Шамаева\ВМССвесна\вмсс2_1\вмсс21\вмсс21\obj\Debug\vmss_2_1.csproj.GenerateResource.Cache
+D:\Группы прошлых лет\А-13-10\Ten\Shamaeva\Шамаева\ВМССвесна\вмсс2_1\вмсс21\вмсс21\obj\Debug\vmss_2_1.csprojResolveAssemblyReference.cache
+D:\резюме\вмсс2_1ДляПавла\вмсс21\вмсс21\obj\Debug\vmss_2_1.exe
+D:\резюме\вмсс2_1ДляПавла\вмсс21\вмсс21\obj\Debug\vmss_2_1.pdb
+D:\резюме\вмсс2_1ДляПавла\вмсс21\вмсс21\bin\Debug\vmss_2_1.exe
+D:\резюме\вмсс2_1ДляПавла\вмсс21\вмсс21\bin\Debug\vmss_2_1.pdb
+D:\резюме\вмсс2_1ДляПавла\вмсс21\вмсс21\obj\Debug\vmss_2_1.csprojResolveAssemblyReference.cache
+D:\резюме\вмсс2_1ДляПавла\вмсс21\вмсс21\obj\Debug\vmss_2_1.Form1.resources
+D:\резюме\вмсс2_1ДляПавла\вмсс21\вмсс21\obj\Debug\vmss_2_1.Properties.Resources.resources
+D:\резюме\вмсс2_1ДляПавла\вмсс21\вмсс21\obj\Debug\vmss_2_1.csproj.GenerateResource.Cache
+D:\резюме\вмсс2_1ДляПавла\вмсс21\truth table\obj\Debug\vmss_2_1.exe
+D:\резюме\вмсс2_1ДляПавла\вмсс21\truth table\obj\Debug\vmss_2_1.pdb
